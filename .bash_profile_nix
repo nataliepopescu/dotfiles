@@ -1,0 +1,2 @@
+export HOME="/home/npopescu/hack"
+export PKG_CONFIG_PATH="/nix/store/zw9qzyal16dk0sy5rshlrh2889z88ijs-openssl-1.1.1i-dev/lib/pkgconfig"

@@ -13,6 +13,5 @@ set number
 set showcmd
 set ruler
 
-highlight ColorColumn ctermbg=89
-"let &colorcolumn=join(range(81,999),",")
-set colorcolumn=81
+highlight ColorColumn ctermbg=16
+let &colorcolumn=join(range(81,999),",")
